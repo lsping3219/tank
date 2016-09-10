@@ -1,0 +1,6 @@
+# Project
+*.dbgconf
+*.uvoptx
+*.uvguix.*
+*.txt
+*.ini
